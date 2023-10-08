@@ -18,5 +18,5 @@
 
 ## 🔧 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js
 - **Databases:** MongoDB, PostgreSQL
